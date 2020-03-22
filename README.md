@@ -4,7 +4,7 @@
 - Instalacion depython en su version 2.7 o superior
 - Instalacion de ZoDB ``pip install ZODB``.
 
-## Ejecucion 
+## Ejecución 
 
 - Listar cuentas existentes:
 ```
