@@ -53,7 +53,7 @@ class Bank:
         if len(self.accounts) > 0:
             print("Bank accounts.......")
             for account in self.accounts:
-                print("%s\t%s\t%s" %(account.clientName,account.accountId, account.balance))
+                print("%s\t%s" %(account.clientName,account.accountId))
         else:
             print("No accounts in this bank.")
 
